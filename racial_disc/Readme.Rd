@@ -11,6 +11,7 @@ In the dataset provided, each row represents a resume. The 'race' column has two
 Note that the 'b' and 'w' values in race are assigned randomly to the resumes when presented to the employer.
 
 ## The following questions where answered as part of the analysis:
+
 1. What test is appropriate for this problem? Does CLT apply?
 2. What are the null and alternate hypotheses?
 3. Compute margin of error, confidence interval, and p-value.
