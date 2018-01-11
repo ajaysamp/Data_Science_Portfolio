@@ -1,4 +1,4 @@
-# Description
+# Ted Talks
 
 I am a big fan of Ted Talks. Interestingly, I first came across the topic of data science in a Ted Talk. It will be really cool to analyze the Ted Talks to answer the questions below:
 
