@@ -1,7 +1,7 @@
 
 # Exploratory Data Analysis
 
-Beer ratings from around the world have been analyzed in the ipython notebook. The following are some of the questions the analsyis will try to explore.
+Beer ratings from around the world have been analyzed in the ipython notebook titled "ExploratoryDataAnalysis". The following are some of the questions the analsyis will try to explore.
 
 1. Which countries have the most number of beers?
 2. Which countries have the best beers? A beer will be considered 'best' if it has an average rating greater than 3.5.
