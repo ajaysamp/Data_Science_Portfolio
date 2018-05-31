@@ -5,6 +5,7 @@ _Ajay Sampath_
 _May 29, 2018_
 
 This project will primarily focus on obtaining data from diferent API's such as Facebook, LinkedIn, Twitter and other sources from where data is available. Insights will be derived on usage of the different social media websites at different areas across the United States and their dependency on different variables such as demography and location. A predcitive model will be built to estimate the usage in areas where data is not available. A clusterting algorithm will be developed to classify areas based on usage and type of buildings that are present (residential, hotel, commerce etc.) This will be helpful for a telecom company to proactively market and build services in these areas. NLP techniques will be applied to identify patterns in social media usage. A dashborad will be built to provide and end-to-end solution that can be used by a sales team.
+
 **_Who will be interested?_**
 
 This primary goal of this project is to learn getting data from API's, building end-to-end dashboard solutions, and learning advanced machine learning techniques such as NLP. 
