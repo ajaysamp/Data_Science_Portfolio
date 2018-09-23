@@ -27,3 +27,7 @@ Boston House Pricing - predicting housing prices in Boston using linear regressi
 Heights and Weights - using logistic regression to classify gender
 Predicting Movie Ratings - use naive bayes algorithm to accurately predict movie ratings based on their reviews
 Customer Segmentation - employ k-means clustering and associated accuracy metrics to partitioning problems
+
+# Capstone Project 2 - Twitter Analytics
+
+The project analyzes 1.6 million tweets from the US between Auig 16 - Aug 17. The idea is to understand how to analyze twitter data to derive meaningful insights on various user and tweet metrics. Machine learning techniques were applied to predict the favorite and retweet count. NLP tecniques were also applied to predict favorites and retweets count based only on the text column. 
